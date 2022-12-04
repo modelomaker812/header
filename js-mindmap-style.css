@@ -18,13 +18,12 @@ body {
 /*  font-family: Megrim, cursive;
   font-size:11px;
   color:#003258;*/
-  opacity:0.75;
+  opacity:0.8;
   padding: 8px;
   cursor:pointer;
   cursor:hand;
   z-index:100;
   list-style:none;
-
   font: 30px/1.15 Megrim, sans-serif;
   font-size:.75em;
   font-weight: bold;
